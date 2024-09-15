@@ -10,12 +10,38 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 Assessment
 1. Show evidence of some of the learning outcomes you have achieved this week.
-[Learning outcomes...]
-[your evidence here]
+* Structure a site using semantic HTML to aid accessibility
+  - deployed website with named html elements
+* Ensure a web page is readable for screen readers
+  - used semantic HTML and also created tailored contact buttons designed with screen readers in mind with contact names.
+*  Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
+  - checked colour contrast rates against WCGA standards
+* Use various tools to check that our website meets accessibility criteria
+  - used lighthouse audit
+ 
+* Use CSS grid/ Flexbox
+  - used dynamic html inputs from hooked up DB to fill out about page contact details
+ 
+* Ensure Git commit history tells coherent story
+  - Used relevant commit messages, rebases where necessary for linear history
+  - Used user stories to formulate project tickets
+ 
+Other 
+* Explored info passing with url query parameters
+* Deployed dynamic data with JSON
+* Deployed dynamic data with Supabase
+* Deployed DB triggers and RSL for info security
+* Deployed EC2
+
 
 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
-[Learning outcome...]
-[your evidence here]
+* CI/CD deployment
+ - Went through various iterations of gh actions. Issue with cycled github runner addresses led to looking into aws SSM and idps.
+ - Established connection with IdP method but not deployment, able to run SSM commands but not via gh actions. 
+
+* Best practices on website deployment
+  - would like to revisit https deployment, look into load management etc. 
+
 
 Feedback (For CF's)
 [Course Facilitator name]
