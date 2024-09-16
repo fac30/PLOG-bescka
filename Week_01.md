@@ -44,6 +44,8 @@ Other
 
 
 Feedback (For CF's)
-[Course Facilitator name]
+Alexander
 [What went well]
+You covered all the basics and many more. You have a good understanding of git workflow and the basics of a basic static website. It was great that you added some JSON manipulation and even connected to Supabase.
 [Even better if]
+It would be great if you could add some brief code snippets to support your learnings. You could also mention GitHub Projects and a bit of project planning. No need to amend this week, you can add it on week02. A screenshot of the Gantt Diagram would be great.
