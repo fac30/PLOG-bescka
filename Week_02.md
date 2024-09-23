@@ -65,6 +65,15 @@ module.exports = { ask };
 Testing! Few examples of implemented testing frameworks in the project.  
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+ 
+> [*What went well*]
+
+You mentioned all the topics we covered this week. It looks like you are keeping up with the pace of the course comfortably.
+
 > [*Even better if*]
+
+The code snippet added is clear and shows different topics. Next time you could use a few shorter snippets instead, making clear what topic you are supporting.
+Also consider adding not only code, but commands (like the ones to install node). You could add a screenshot of the folder structure, tests and their results. This week you will use Postman or Bruno; you can incorporate those into your progress log.
