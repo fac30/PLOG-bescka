@@ -64,8 +64,8 @@ unit test example:
 Deployed automated scripts for db config, quiz generation logic (service), implemented integration testing with mocking and draft functional testing with config. 
 
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
-> TDD --> ongoing learning point
-> Todo: Set up swagger documentation
+ TDD --> ongoing learning point
+ Todo: Set up swagger documentation
 
 ## Feedback (For CF's)
 > [**Course Facilitator name**]  
