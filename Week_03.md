@@ -68,6 +68,14 @@ Deployed automated scripts for db config, quiz generation logic (service), imple
  Todo: Set up swagger documentation
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander.
+
+> [*What went well*]
+
+Very good progress log, godd examples, concise, you cover all expected on this week.
+
 > [*Even better if*]
+
+Nothing to add.
